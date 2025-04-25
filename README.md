@@ -1,1 +1,4 @@
-# Rel-gio-Python
+"""
+Um relógio simples em python 
+ass: GU
+"""
